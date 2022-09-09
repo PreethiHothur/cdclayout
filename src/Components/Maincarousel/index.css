@@ -1,0 +1,16 @@
+.nextbtn {
+  width: 40px;
+  height: 30px;
+  border-radius: 50%;
+  top: -12%;
+  left: 95%;
+  position: absolute;
+}
+.prevbtn {
+  width: 40px;
+  height: 30px;
+  position: absolute;
+  top: -12%;
+  left: 90%;
+  border-radius: 50%;
+}

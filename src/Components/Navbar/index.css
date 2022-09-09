@@ -1,0 +1,31 @@
+/* body {
+  margin: 20px;
+} */
+.nav-logo {
+  height: 50px;
+  /* width: 50px; */
+}
+/* ul {
+  text-indent: 10px;
+} */
+.home {
+  height: 50px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white, pink);
+}
+.person-logo {
+  width: 50px;
+  height: 30px;
+}
+.justdial-logo {
+  width: 100px;
+  height: 30px;
+}
+.nav-item:hover {
+  background-color: rgb(
+    245,
+    21,
+    21
+  ); /* For browsers that do not support gradients */
+  background-image: linear-gradient(white, pink);
+}
